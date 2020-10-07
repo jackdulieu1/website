@@ -1,0 +1,136 @@
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 70px;
+}
+
+.middle-container {
+  padding-top: 60px;
+  background-color: #ffffff;
+  padding-bottom: 20px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 25px;
+  margin-bottom: 0;
+}
+
+.education-row {
+  width: 60%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bio {
+  width: 57%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+}
+
+.pp {
+  height: 200px;
+  width: 200px;
+}
+
+.uni-gif {
+  width: 160px;
+  float: left;
+}
+
+.school-gif {
+  width: 160px;
+  float: left;
+}
+
+.copyright {
+  color: white;
+
+}
+
+
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  color: #40514E
+}
+
+h1 {
+  font-size: 6rem;
+  margin: 100px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: darkblue;
+  font-weight: 900;
+}
+
+a {
+  color: white;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bolder;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.footer-link {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 350px;
+}
+
+.bottom-cloud {
+  position: relative;
+  bottom: 300px;
+  right: 50px;
+}
+
+hr {
+
+    border-style: dotted none none;
+
+    width: 5%;
+    border-width: 7px;
+    border-color: #3ec1d3;
+}
